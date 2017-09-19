@@ -1,3 +1,3 @@
 # hello
-this is test
-测试分支功能
+this 哈哈我是bug  is test
+测试分哈哈我是bug支功能
